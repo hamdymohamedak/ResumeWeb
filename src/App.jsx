@@ -2,6 +2,7 @@
 import React from "react"
 import { Github, Linkedin, Mail, MapPin, Phone, ExternalLink } from "lucide-react"
 import { motion } from "framer-motion"
+import CopyCode from "./Components/CopyCode"
 
 const Resume = () => {
   const projects = [
@@ -620,6 +621,7 @@ const Resume = () => {
           © {new Date().getFullYear()} Hamdy Mohamed
         </div>
       </div>
+      <CopyCode/>
     </div>
   )
 }
