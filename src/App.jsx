@@ -9,7 +9,7 @@ const Resume = () => {
       name: "45Days LMS",
       link: "#",
       description: "Platform for learning English with AI-powered practice and user interaction features.",
-    },
+     },
     {
       name: "WasSender",
       link: "https://hamdymohamedak.github.io/WasSender/",
