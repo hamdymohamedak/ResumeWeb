@@ -37,11 +37,6 @@ const Resume = () => {
       description: "Portfolio for freelancer team.",
     },
     {
-      name: "Magia-chat",
-      link: "https://magia-chat.vercel.app",
-      description: "An AI chatbot using Google Gemini API and React Larose Library.",
-    },
-    {
       name: "LaRose js",
       link: "https://larose.vercel.app",
       description: "React.js snippet toolkit for animated components and hooks.",
